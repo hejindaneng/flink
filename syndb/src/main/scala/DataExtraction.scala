@@ -54,7 +54,7 @@ object DataExtraction {
         Canal(logfileName, logfileOffset, dbName, tableName, eventType, columns, rowNum)
     }
     data.print()
-    environment.execute()
+    environment.execute()//haha
   }
 }
 
